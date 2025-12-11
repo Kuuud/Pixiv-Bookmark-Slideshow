@@ -57,7 +57,7 @@ Click the **Settings (⚙️)** button in the overlay to configure:
 
 ### 📸 Screenshots
 
-![Slideshow View](https://via.placeholder.com/800x450?text=Please+Replace+With+Real+Screenshot)
+![Slideshow View](https://raw.githubusercontent.com/Kuuud/Pixiv-Bookmark-Slideshow/bcc3d2058b9e3ab6c30df7e03c3c1fb59573b9fd/images/%E6%92%AD%E6%94%BE%E7%95%8C%E9%9D%A2.png)
 _Slideshow View with Controls_
 
 ---
@@ -113,7 +113,7 @@ _Slideshow View with Controls_
 
 ### 📸 截图展示
 
-![播放界面](https://via.placeholder.com/800x450?text=Please+Replace+With+Real+Screenshot)
+![播放界面](https://raw.githubusercontent.com/Kuuud/Pixiv-Bookmark-Slideshow/bcc3d2058b9e3ab6c30df7e03c3c1fb59573b9fd/images/%E6%92%AD%E6%94%BE%E7%95%8C%E9%9D%A2.png)
 
 ---
 
