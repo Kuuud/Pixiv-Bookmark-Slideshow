@@ -27,7 +27,7 @@
 1.  Install a userscript manager:
     - **Tampermonkey** (Recommended): [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/)
     - **Violentmonkey**
-2.  **[Click here to Install from GreasyFork](https://greasyfork.org/scripts/YOUR_SCRIPT_ID)**
+2.  **[Click here to Install from GreasyFork](https://greasyfork.org/scripts/558698-pixiv-bookmark-slideshow)**
     - _Or install manually using the `.user.js` file in this repository._
 
 ### 🎮 Usage
@@ -83,7 +83,7 @@ _Slideshow View with Controls_
 1.  首先安装脚本管理器：
     - **Tampermonkey (篡改猴)** (推荐): [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/)
     - **Violentmonkey (暴力猴)**
-2.  **[点击这里从 GreasyFork 安装](https://greasyfork.org/scripts/YOUR_SCRIPT_ID)**
+2.  **[点击这里从 GreasyFork 安装](https://greasyfork.org/scripts/558698-pixiv-bookmark-slideshow)**
     - _或者直接下载本仓库中的 `.user.js` 文件进行安装。_
 
 ### 🎮 使用说明
